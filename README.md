@@ -125,3 +125,7 @@ Bash
 python weather_dashboard.py
 ```
 After running the script, a bar chart displaying the temperatures will appear, and an image file named weather_dashboard.png will be saved in the same directory.
+
+
+#OUTPUT#
+![Image](https://github.com/user-attachments/assets/655a0b73-0a3a-4126-95df-d049577acd56)
