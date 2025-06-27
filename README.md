@@ -92,7 +92,6 @@ To run this script, you will need Python installed on your system along with the
 
 1. Clone the Repository (or download the script):
 
-``
 Bash
 ```
 git clone https://github.com/yourusername/weather-dashboard.git
@@ -102,8 +101,8 @@ cd weather-dashboard
 
 2. Install Dependencies:
     It's highly recommended to use a virtual environment to manage project dependencies.
-```
 Bash
+```
 python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 pip install requests matplotlib seaborn
@@ -116,13 +115,13 @@ pip install requests matplotlib seaborn
 4. Configure API Key:
     -Open the weather_dashboard.py file.
     -Replace 'YOUR_API_KEY' with your actual OpenWeatherMap API key:
-```
 Python
+```
 API_KEY = '581127197832298e7fd3857ed6bbfefb' # Replace this with your actual key
 ```
 5. Run the Script:
-```
 Bash
+```
 python weather_dashboard.py
 ```
 After running the script, a bar chart displaying the temperatures will appear, and an image file named weather_dashboard.png will be saved in the same directory.
