@@ -12,8 +12,6 @@
 
 *MENTOR* : NEELA SANTOSH
 
-This is a README file for the `weather_dashboard.py` script.
-
 # Weather Dashboard
 
 ## Overview
