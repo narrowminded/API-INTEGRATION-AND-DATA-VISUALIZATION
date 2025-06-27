@@ -80,7 +80,7 @@ To run this script, you will need Python installed on your system along with the
 1.  **Clone the Repository (or download the script):**
 
     ```bash
-    git clone https://github.com/narrowminded/weather-dashboard.git
+    git clone https://github.com/narrowminded/API-INTEGRATION-AND-DATA-VISUALIZATION.git
     cd weather-dashboard
     ```
 
