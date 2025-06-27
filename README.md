@@ -92,8 +92,9 @@ To run this script, you will need Python installed on your system along with the
 
 1. Clone the Repository (or download the script):
 
-```
+``
 Bash
+```
 git clone https://github.com/yourusername/weather-dashboard.git
 cd weather-dashboard
 ```
